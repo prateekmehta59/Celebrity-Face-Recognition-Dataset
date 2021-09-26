@@ -7,7 +7,7 @@ Each Celebrity class(folder) consists approximately 700-800 images and the Unkno
 Total Size of the Dataset - 172 GB.
 Total number of zipped files - 12
 
-Link for the DataSet: https://drive.google.com/drive/folders/0B5G8pYUQMNZnLTBVaENWUWdzR0E?usp=sharing
+Updated Link for the DataSet: https://drive.google.com/drive/folders/0B5G8pYUQMNZnLTBVaENWUWdzR0E?resourcekey=0-gRGzioHdCR4zkegs6t1W2Q&usp=sharing
 
 ## 2021 - Update:
 Since the existing dataset is 3years old, I have also added the script to download your own latest celebrity image dataset incase you want the latest images.
